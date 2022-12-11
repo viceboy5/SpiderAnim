@@ -2555,7 +2555,7 @@ ScriptedImporter:
     - name: Left3Lower
       guid: 3c033bcb484e7bc478fb3ec67e9cf07e
       position: {x: 87.102974, y: -0.0000043346163, z: 0}
-      rotation: {x: 0, y: 0, z: 0.43695468, w: 0.89948356}
+      rotation: {x: 0, y: 0, z: 0.43695468, w: 0.8994835}
       length: 49.812443
       parentId: 0
       color:
@@ -3715,7 +3715,7 @@ ScriptedImporter:
     - name: RIght2Upper
       guid: e94efb787f83ede42911e15b387b2d0b
       position: {x: 15.391876, y: 22.51941, z: 0}
-      rotation: {x: 0, y: 0, z: 0.32493004, w: 0.9457381}
+      rotation: {x: 0, y: 0, z: 0.32492998, w: 0.94573814}
       length: 128.34106
       parentId: -1
       color:
@@ -3723,9 +3723,9 @@ ScriptedImporter:
         rgba: 4294901760
     - name: Right2Lower
       guid: dd8989a35a7c2c94981e5af9a4f3a8c5
-      position: {x: 128.34102, y: -0.000043519394, z: 0}
-      rotation: {x: 0, y: 0, z: -0.29717395, w: 0.95482343}
-      length: 69.64484
+      position: {x: 128.34105, y: -0.0000033727356, z: 0}
+      rotation: {x: 0, y: 0, z: -0.2971739, w: 0.95482343}
+      length: 69.644844
       parentId: 0
       color:
         serializedVersion: 2
@@ -4090,16 +4090,16 @@ ScriptedImporter:
     - name: Left1Upper
       guid: b40faf8e0d1755b498cbd0d9478b291d
       position: {x: 154.96643, y: 56.24402, z: 0}
-      rotation: {x: 0, y: 0, z: 0.9134374, w: 0.40697926}
-      length: 97.88712
+      rotation: {x: 0, y: 0, z: 0.91343737, w: 0.40697947}
+      length: 97.887085
       parentId: -1
       color:
         serializedVersion: 2
         rgba: 4278255360
     - name: Left1Lower
       guid: ab1b07c42b951bb46ad930b6ff721c18
-      position: {x: 97.887146, y: -0.000022164586, z: 0}
-      rotation: {x: 0, y: 0, z: 0.21691032, w: 0.9761916}
+      position: {x: 97.88709, y: 0.0000064725555, z: 0}
+      rotation: {x: 0, y: 0, z: 0.21691053, w: 0.9761915}
       length: 95.83138
       parentId: 0
       color:
@@ -4856,16 +4856,16 @@ ScriptedImporter:
     - name: Left1Upper
       guid: b40faf8e0d1755b498cbd0d9478b291d
       position: {x: -79.381546, y: 108.44691, z: 0}
-      rotation: {x: 0, y: -0, z: 0.9124067, w: 0.40928477}
-      length: 97.88714
+      rotation: {x: 0, y: -0, z: 0.9124066, w: 0.40928498}
+      length: 97.8871
       parentId: 16
       color:
         serializedVersion: 2
         rgba: 4278255360
     - name: Left1Lower
       guid: ab1b07c42b951bb46ad930b6ff721c18
-      position: {x: 97.88712, y: -0.00004029797, z: 0}
-      rotation: {x: 0, y: 0, z: 0.21691032, w: 0.9761915}
+      position: {x: 97.887115, y: 0.000014172356, z: 0}
+      rotation: {x: 0, y: 0, z: 0.21691054, w: 0.9761915}
       length: 95.8314
       parentId: 2
       color:
@@ -4874,16 +4874,16 @@ ScriptedImporter:
     - name: RIght2Upper
       guid: e94efb787f83ede42911e15b387b2d0b
       position: {x: 131.8153, y: 62.655, z: 0}
-      rotation: {x: 0, y: 0, z: 0.3225406, w: 0.9465556}
-      length: 128.34106
+      rotation: {x: 0, y: 0, z: 0.32254055, w: 0.9465557}
+      length: 128.34105
       parentId: 16
       color:
         serializedVersion: 2
         rgba: 4294901760
     - name: Right2Lower
       guid: dd8989a35a7c2c94981e5af9a4f3a8c5
-      position: {x: 128.34105, y: -0.000018073182, z: 0}
-      rotation: {x: 0, y: 0, z: -0.29717392, w: 0.9548234}
+      position: {x: 128.34105, y: 0.0000026558846, z: 0}
+      rotation: {x: 0, y: 0, z: -0.29717386, w: 0.95482343}
       length: 69.64484
       parentId: 4
       color:
@@ -4937,7 +4937,7 @@ ScriptedImporter:
     - name: Left3Lower
       guid: 3c033bcb484e7bc478fb3ec67e9cf07e
       position: {x: 87.10298, y: 0.0000021920923, z: 0}
-      rotation: {x: 0, y: 0, z: 0.43695468, w: 0.89948356}
+      rotation: {x: 0, y: 0, z: 0.43695474, w: 0.89948356}
       length: 49.812443
       parentId: 10
       color:
